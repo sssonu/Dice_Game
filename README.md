@@ -1,6 +1,6 @@
 ## Dice Rolling Game
 
-![Click Here](https://game-of-two-dices.vercel.app/)
+[Click Here](https://game-of-two-dices.vercel.app/)
 
 #### Refresh the page each time for Dice Rolling
 
